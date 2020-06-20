@@ -25,7 +25,8 @@ navigation: # Navigation links
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
-tagline: >I am a Computer Science undergraduate student with industry related experience as an IT technical support assistant and also working knowledge of managing IT inventories and customer service.
+tagline: >
+I am a Computer Science undergraduate student with industry related experience as an IT technical support assistant and also working knowledge of managing IT inventories and customer service.
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
