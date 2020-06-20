@@ -25,8 +25,7 @@ navigation: # Navigation links
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
-tagline: >
-  I am a Computer Science student; I studied BTEC Level 3 Extended Diploma in Networking and Digital Forensics at college, I learned the fundamentals of networking such as looking at networks, databases, security, computer systems etc. During the two years in the course, it has developed me into a better and more confident person, with learning the technical aspect.
+tagline: >I am a Computer Science undergraduate student with industry related experience as an IT technical support assistant and also working knowledge of managing IT inventories and customer service.
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
