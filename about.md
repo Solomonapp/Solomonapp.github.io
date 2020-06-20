@@ -1,8 +1,4 @@
----
-layout: page
-title: About
-permalink: /about/
----
+
   I am a Computer Science student; I studied BTEC Level 3 Extended Diploma in Networking and Digital Forensics at college, I learned the fundamentals of networking such as looking at networks, databases, security, computer systems etc. During the two years in the course, it has developed me into a better and more confident person, with learning the technical aspect.
 My degree is focused on studying the topics of Computer Science; AI,Database Systems, Computer Animation and Multimedia; Programming; Network Fundamentals; Software Engineering; Information Security and Computer Operating Systems; Natural Computation, Data Structures and etc.       
 The course also combines practical projects and theoretical study, developing technical and transferable skills in:     
